@@ -1,0 +1,3 @@
+- [Home](/)
+- [PowerShell](powershell.md)
+- [Shell](shell.md)
