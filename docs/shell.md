@@ -1,5 +1,12 @@
 # Shell
 
+## 查看 cronjob log
+
+```sh
+sudo tail -f /var/log/syslog | grep CRON
+sudo journalctl -u cron.service -f
+```
+
 ## description of system path
 
 ```bash
