@@ -2,3 +2,5 @@
 - [PowerShell](powershell.md)
 - [Shell](shell.md)
 - [Docker](docker.md)
+- [Windows Registry](WinRegedit.md)
+
